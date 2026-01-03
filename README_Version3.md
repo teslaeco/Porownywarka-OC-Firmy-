@@ -1,4 +1,4 @@
-# BizInsure – Porównywarka ubezpieczeń firmowych (styl Mubi)
+# BizInsure – Porównywarka ai np.ubezpieczeń firmowych (styl Mubi)
 
 Nowoczesny frontend React inspirowany wyglądem porównywarki mubi.pl, ale dla ubezpieczeń firmowych.
 
